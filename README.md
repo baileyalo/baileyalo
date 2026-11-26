@@ -67,7 +67,7 @@ A responsive Next.js and TypeScript portfolio highlighting my experience, skills
 
 ## In the last year
 
-I continued improving and shipping updates to my portfolio, football standings app, and Fans Space dApp. See the [2026 project showcase](https://github.com/baileyalo/2026-showcase) for project links and highlights.
+I continued improving and shipping updates to my portfolio, football standings app, and Fans Space dApp. See the [2026 project showcase](https://github.com/baileyalo/026-showcase) for project links and highlights.
 
 ## Get in touch
 
